@@ -16,7 +16,9 @@
 
 ###
 
-  <img src="https://spotify-readmeuu.vercel.app/api" alt="Current Spotify Song">
+<div align="center">
+  <img src="https://spotify-readmeuu.vercel.app/api?theme=dark&spin=true&scan=true&rainbow=true" alt="Widget with the current Spotify song"  />
+</div>
 
 <!--
 **thegonzx/thegonzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
