@@ -16,9 +16,7 @@
 
 ###
 
-<a href="https://github.com/tthn0/Spotify-Readme">
   <img src="https://spotify-readmeuu.vercel.app/api" alt="Current Spotify Song">
-</a>
 
 <!--
 **thegonzx/thegonzx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
